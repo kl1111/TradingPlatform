@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+
+	<persistence-unit name="groupproject" transaction-type="RESOURCE_LOCAL">
+		<provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+
+		<class>com.fdmgroup.model.Place</class>
+		<class>com.fdmgroup.model.Company</class>
+		<class>com.fdmgroup.model.Broker</class>
+		<class>com.fdmgroup.model.User</class>
+		<class>com.fdmgroup.model.Currency</class>
+		<class>com.fdmgroup.model.StockExchange</class>
+		<class>com.fdmgroup.model.Share</class>
+		<class>com.fdmgroup.model.SharePrice</class>
+		<class>com.fdmgroup.model.Trade</class>
+		<class>com.fdmgroup.model.Holding</class>
+		<class>com.fdmgroup.model.BrokerStockExchange</class>
+		<class>com.fdmgroup.model.Wallet</class>
+		<class>com.fdmgroup.model.ExchangeRate</class>
+
+		<properties>
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:oracle:thin:@localhost:1521:xe" />
+			<property name="javax.persistence.jdbc.user" value="Trainee1" />
+			<property name="javax.persistence.jdbc.password" value="!QAZSE4" />
+			<property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver" />
+		</properties>
+	</persistence-unit>
+</persistence>

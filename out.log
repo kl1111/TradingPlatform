@@ -1,0 +1,306 @@
+2017-01-06 10:04:25 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 260 entries.
+2017-01-06 10:06:17 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 260 entries.
+2017-01-06 10:20:39 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 260 entries.
+2017-01-06 10:21:11 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 260 entries.
+2017-01-06 10:22:29 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 260 entries.
+2017-01-06 10:24:53 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 252 entries.
+2017-01-06 10:49:34 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 252 entries.
+2017-01-06 10:50:08 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 252 entries.
+2017-01-06 11:05:45 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 252 entries.
+2017-01-06 11:18:18 INFO  [main] SharePriceDAO:64 - Searched for shares prices. Found 252 entries.
+2017-01-06 11:52:46 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:14:02 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:22:15 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:22:15 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:41 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:41 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:41 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:41 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:41 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:42 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:42 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:42 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 12:23:42 INFO  [main] PlaceDAO:35 - Searched for shares. Found 0 entries.
+2017-01-06 13:19:26 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:19:26 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:19:27 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:19:28 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:19:28 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 13:19:28 INFO  [main] CompanyDAO:31 - Inserted company: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget sem fringilla, aliquet eros ultricies, imperdiet diam. Nunc commodo aliquet vestibulum. Sed pellentesque mattis ipsum, id suscipit nisl tempor eu. Phasellus lobortis, massa et fringilla mattis, tellus quam tempor tortor, et vulputate nulla est nec enim. Proin a ullamcorper nibh. Suspendisse. into the table.
+2017-01-06 13:19:28 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:19:28 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 10 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:33 - Inserted a new place: Peking in China with place_id = 23
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:28 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:19:29 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:19:29 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 13:19:29 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:19:29 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:19:29 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:19:29 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 13:19:29 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:19:29 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:19:29 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 13:19:29 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 13:19:29 INFO  [main] LoginController:45 - Entering LoginPage
+2017-01-06 13:19:29 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:19:30 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange2
+2017-01-06 13:19:31 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange1
+2017-01-06 13:19:31 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 1 into the StockExchange2
+2017-01-06 13:19:31 ERROR [main] BrokerStockExchangeDAO:78 - Invalid stock exchange id entered
+2017-01-06 13:19:31 ERROR [main] BrokerStockExchangeDAO:59 - Invalid broker id entered
+2017-01-06 13:19:31 ERROR [main] CurrencyDAO:63 - Value is null
+2017-01-06 13:19:31 INFO  [main] CurrencyDAO:28 - found currency: 1
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:60 - Currency already Exists
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:94 - name changed
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:28 - found currency: 2
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:57 - Inserted currency: Galleon into the table.
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:28 - found currency: 21
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:28 - found currency: 21
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:71 - Removed currency: 21 from the table.
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:57 - Inserted currency: Vietnamese Dong into the table.
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:28 - found currency: 22
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:71 - Removed currency: 22 from the table.
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:100 - No Currency Entered
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:117 - Symbol changed
+2017-01-06 13:19:32 INFO  [main] CurrencyDAO:28 - found currency: 4
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:79 - No Currency Entered
+2017-01-06 13:19:32 ERROR [main] CurrencyDAO:34 - No Input
+2017-01-06 13:19:32 INFO  [main] StockExchange:30 - Created stock exchange: London Secondary Stock Exchange into the table.
+2017-01-06 13:48:13 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:48:13 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:31 - Inserted company: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget sem fringilla, aliquet eros ultricies, imperdiet diam. Nunc commodo aliquet vestibulum. Sed pellentesque mattis ipsum, id suscipit nisl tempor eu. Phasellus lobortis, massa et fringilla mattis, tellus quam tempor tortor, et vulputate nulla est nec enim. Proin a ullamcorper nibh. Suspendisse. into the table.
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 13:48:13 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 11 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:33 - Inserted a new place: Peking in China with place_id = 24
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 13:48:14 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:48:14 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 13:48:14 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:48:14 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:48:14 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:48:14 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 13:48:14 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 13:48:14 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:48:14 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 13:48:14 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 13:48:14 INFO  [main] LoginController:45 - Entering LoginPage
+2017-01-06 13:48:14 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] PlaceDAO:37 - Searched for shares. Found 8 entries.
+2017-01-06 13:48:14 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange2
+2017-01-06 13:48:14 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange1
+2017-01-06 13:48:14 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 1 into the StockExchange2
+2017-01-06 13:48:14 ERROR [main] BrokerStockExchangeDAO:78 - Invalid stock exchange id entered
+2017-01-06 13:48:14 ERROR [main] BrokerStockExchangeDAO:59 - Invalid broker id entered
+2017-01-06 13:48:14 ERROR [main] CurrencyDAO:63 - Value is null
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:28 - found currency: 1
+2017-01-06 13:48:14 ERROR [main] CurrencyDAO:60 - Currency already Exists
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:94 - name changed
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:28 - found currency: 2
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:57 - Inserted currency: Galleon into the table.
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:28 - found currency: 23
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:28 - found currency: 23
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:71 - Removed currency: 23 from the table.
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:57 - Inserted currency: Vietnamese Dong into the table.
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:28 - found currency: 24
+2017-01-06 13:48:14 INFO  [main] CurrencyDAO:71 - Removed currency: 24 from the table.
+2017-01-06 13:48:14 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 13:48:14 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 13:48:15 ERROR [main] CurrencyDAO:100 - No Currency Entered
+2017-01-06 13:48:15 ERROR [main] CurrencyDAO:117 - Symbol changed
+2017-01-06 13:48:15 INFO  [main] CurrencyDAO:28 - found currency: 4
+2017-01-06 13:48:15 ERROR [main] CurrencyDAO:79 - No Currency Entered
+2017-01-06 13:48:15 ERROR [main] CurrencyDAO:34 - No Input
+2017-01-06 13:48:15 INFO  [main] StockExchange:30 - Created stock exchange: London Secondary Stock Exchange into the table.
+2017-01-06 14:30:43 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 14:30:43 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:31 - Inserted company: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget sem fringilla, aliquet eros ultricies, imperdiet diam. Nunc commodo aliquet vestibulum. Sed pellentesque mattis ipsum, id suscipit nisl tempor eu. Phasellus lobortis, massa et fringilla mattis, tellus quam tempor tortor, et vulputate nulla est nec enim. Proin a ullamcorper nibh. Suspendisse. into the table.
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 14:30:43 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 12 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:33 - Inserted a new place: Peking in China with place_id = 25
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:43 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:39 - Searched for places. Found 13 entries.
+2017-01-06 14:30:44 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 14:30:44 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 14:30:44 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 14:30:44 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 14:30:44 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 14:30:44 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 14:30:44 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 14:30:44 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 14:30:44 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 14:30:44 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 14:30:44 INFO  [main] LoginController:45 - Entering LoginPage
+2017-01-06 14:30:44 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:44 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:45 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:45 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:45 INFO  [main] PlaceDAO:38 - Searched for shares. Found 8 entries.
+2017-01-06 14:30:45 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange2
+2017-01-06 14:30:45 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange1
+2017-01-06 14:30:45 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 1 into the StockExchange2
+2017-01-06 14:30:45 ERROR [main] BrokerStockExchangeDAO:78 - Invalid stock exchange id entered
+2017-01-06 14:30:45 ERROR [main] BrokerStockExchangeDAO:59 - Invalid broker id entered
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:63 - Value is null
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 1
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:60 - Currency already Exists
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:94 - name changed
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 2
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:57 - Inserted currency: Galleon into the table.
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 25
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 25
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:71 - Removed currency: 25 from the table.
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:57 - Inserted currency: Vietnamese Dong into the table.
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 26
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:71 - Removed currency: 26 from the table.
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:100 - No Currency Entered
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:117 - Symbol changed
+2017-01-06 14:30:45 INFO  [main] CurrencyDAO:28 - found currency: 4
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:79 - No Currency Entered
+2017-01-06 14:30:45 ERROR [main] CurrencyDAO:34 - No Input
+2017-01-06 14:30:45 INFO  [main] StockExchange:30 - Created stock exchange: London Secondary Stock Exchange into the table.
+2017-01-06 15:33:55 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 15:33:55 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:31 - Inserted company: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget sem fringilla, aliquet eros ultricies, imperdiet diam. Nunc commodo aliquet vestibulum. Sed pellentesque mattis ipsum, id suscipit nisl tempor eu. Phasellus lobortis, massa et fringilla mattis, tellus quam tempor tortor, et vulputate nulla est nec enim. Proin a ullamcorper nibh. Suspendisse. into the table.
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:31 - Inserted company: FDM into the table.
+2017-01-06 15:33:55 INFO  [main] CompanyDAO:45 - Removed company: FDM from the table.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:33 - Inserted a new place: Peking in China with place_id = 20
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 20 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 20 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 20 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 20 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 20 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] PlaceDAO:39 - Searched for places. Found 19 entries.
+2017-01-06 15:33:56 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 15:33:56 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 15:33:56 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 15:33:56 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 15:33:56 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 15:33:56 INFO  [main] RegistrationController:54 - Entering RegistrationPage
+2017-01-06 15:33:56 INFO  [main] RegistrationController:64 - Submitting RegistrationInfo
+2017-01-06 15:33:56 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 15:33:56 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 15:33:56 INFO  [main] LoginController:61 - Submitting LoginInfo
+2017-01-06 15:33:56 INFO  [main] LoginController:45 - Entering LoginPage
+2017-01-06 15:33:56 INFO  [main] HomeController:43 - Entering Homepage
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 18 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 18 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 18 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:53 - Inserted a new share.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 19 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 19 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 19 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 19 entries.
+2017-01-06 15:33:57 INFO  [main] PlaceDAO:38 - Searched for shares. Found 19 entries.
+2017-01-06 15:33:57 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange2
+2017-01-06 15:33:57 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 15 into the StockExchange1
+2017-01-06 15:33:57 INFO  [main] BrokerStockExchangeDAO:35 - Inserted broker: 1 into the StockExchange2
+2017-01-06 15:33:57 ERROR [main] BrokerStockExchangeDAO:78 - Invalid stock exchange id entered
+2017-01-06 15:33:57 ERROR [main] BrokerStockExchangeDAO:59 - Invalid broker id entered
+2017-01-06 15:33:57 ERROR [main] CurrencyDAO:63 - Value is null
+2017-01-06 15:33:57 INFO  [main] CurrencyDAO:28 - found currency: 1
+2017-01-06 15:33:57 ERROR [main] CurrencyDAO:60 - Currency already Exists
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:94 - name changed
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:28 - found currency: 2
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:57 - Inserted currency: Galleon into the table.
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:28 - found currency: 8
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:28 - found currency: 8
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:71 - Removed currency: 8 from the table.
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:57 - Inserted currency: Vietnamese Dong into the table.
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:28 - found currency: 9
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:71 - Removed currency: 9 from the table.
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:31 - Currency not Found
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:100 - No Currency Entered
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:117 - Symbol changed
+2017-01-06 15:33:58 INFO  [main] CurrencyDAO:28 - found currency: 4
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:79 - No Currency Entered
+2017-01-06 15:33:58 ERROR [main] CurrencyDAO:34 - No Input
+2017-01-06 15:33:58 INFO  [main] StockExchange:30 - Created stock exchange: London Secondary Stock Exchange into the table.
